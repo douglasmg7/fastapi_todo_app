@@ -1,0 +1,8 @@
+# start server
+uvicorn main:app --reload
+
+# docs
+http://localhost:8000/docs
+
+# generate a randon number
+openssl rand -hex 32

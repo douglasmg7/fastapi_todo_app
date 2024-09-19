@@ -1,2 +1,8 @@
+pip install fastapi
+pip install SQLAlchemy
+pip install bcrypt==4.0.1
+pip install passlib
+pip install python-multipart
 pip install pydantic
 pip install "uvicorn[standard]"
+pip install "python-jose[cryptograph]"
